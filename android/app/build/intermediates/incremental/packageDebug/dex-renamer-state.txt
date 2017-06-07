@@ -1,0 +1,4 @@
+#Wed Jun 07 15:28:57 CEST 2017
+base.0=/Users/ognjetina/workProjects/online/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/ognjetina/workProjects/online/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
