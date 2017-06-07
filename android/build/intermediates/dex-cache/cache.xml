@@ -2,211 +2,319 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="/Users/ognjetina/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jar="/Users/ognjetina/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho/1.2.0/1d6cdb8ce8185b8b23213fad48a83987fb6d2d67/stetho-1.2.0.jar"
         jumboMode="false"
-        optimize="true"
         revision="23.0.1"
-        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
-        <dex dex="/Users/ognjetina/workProjects/online/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1_02175cf17c60deae64704dbbe893734431978a67.jar" />
+        sha1="1d6cdb8ce8185b8b23213fad48a83987fb6d2d67">
+        <dex dex="/Users/ognjetina/workProjects/online/node_modules/react-native-vector-icons/android/build/intermediates/pre-dexed/androidTest/debug/stetho-1.2.0-bda1f86e06edcb6c88db819e9552a390477ace97.jar" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/ognjetina/workProjects/online/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
-        <dex dex="/Users/ognjetina/workProjects/online/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_b060181313b34ab699d70b19ef685a703e7a6b3d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/ognjetina/workProjects/online/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
-        <dex dex="/Users/ognjetina/workProjects/online/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_85b0cf4c2da3f50e118aaf88d542464143b7a289.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/ognjetina/workProjects/online/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
-        <dex dex="/Users/ognjetina/workProjects/online/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_78e6b8345b9283d9ccb2613abe1b799afec06279.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/ognjetina/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="63994437f62bc861bc20c605d12962f7246116d1">
-        <dex dex="/Users/ognjetina/workProjects/online/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1_b78db69536646792d7e4d413a6acc91732cec7d0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/ognjetina/workProjects/online/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
-        <dex dex="/Users/ognjetina/workProjects/online/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.0.1_c66b698fae0e1dc80065f6b918b314f86d82c2b2.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/ognjetina/workProjects/online/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
         jumboMode="false"
-        optimize="true"
         revision="23.0.1"
         sha1="8f615bca00639150c9eb6175d4b5471193f70794">
         <dex dex="/Users/ognjetina/workProjects/online/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_6b6e0179011470c65c1d29db8f4787c8a7492492.jar" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/ognjetina/workProjects/online/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
-        <dex dex="/Users/ognjetina/workProjects/online/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.0.1_ce9020aad9cacc722864767f8044230d045b0acd.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/ognjetina/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
-        <dex dex="/Users/ognjetina/workProjects/online/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_8defaa2e324e518d5f624cfad33e1604da4f7653.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/ognjetina/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
-        <dex dex="/Users/ognjetina/workProjects/online/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_6a513854af1462bf1789b6305f2386d0c3b83f15.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/ognjetina/workProjects/online/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
-        <dex dex="/Users/ognjetina/workProjects/online/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.0.1_3c1f0a3043662978527c5630338a0eb3f58d2c01.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/ognjetina/workProjects/online/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="/Users/ognjetina/workProjects/online/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_09c8219466e42df631d6c2408336371c6c61b009.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/ognjetina/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
-        <dex dex="/Users/ognjetina/workProjects/online/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0_3c2ff5e3d8ce19902dc696260e7a82a87504c792.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/ognjetina/workProjects/online/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
-        <dex dex="/Users/ognjetina/workProjects/online/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.0.1_741b7123532471be55c36c6b5ba60d4002755ed7.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/ognjetina/workProjects/online/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
-        <dex dex="/Users/ognjetina/workProjects/online/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_f44ce6b880126c76111139910bf73aa6cc2c58d6.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/ognjetina/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="6975da39a7040257bd51d21a231b76c915872d38">
-        <dex dex="/Users/ognjetina/workProjects/online/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_afdcd7369888b4c04b18bcf062af52925aae5668.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/ognjetina/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
-        <dex dex="/Users/ognjetina/workProjects/online/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_7e752aa0dee70bc7af2dda4e9f08e8169f7a987e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/ognjetina/workProjects/online/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
-        <dex dex="/Users/ognjetina/workProjects/online/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.0.1_28eb46d8e9de19290280941ab9e2d6578c3b125e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/ognjetina/workProjects/online/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.3/jars/libs/infer-annotations-1.5.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
-        <dex dex="/Users/ognjetina/workProjects/online/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5_24b9f2600f21df4ebf29a4293c511124db3cd6ed.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/ognjetina/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
         jumboMode="false"
-        optimize="true"
         revision="23.0.1"
         sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
         <dex dex="/Users/ognjetina/workProjects/online/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_eaa74d0e69e810deac0273ca79d20d9778a587ee.jar" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/ognjetina/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jar="/Users/ognjetina/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
         jumboMode="false"
-        optimize="true"
         revision="23.0.1"
-        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
-        <dex dex="/Users/ognjetina/workProjects/online/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_dfa30c8d2b7879fb47b0beb96c6a4fd63e04c9c1.jar" />
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/ognjetina/workProjects/online/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1_02175cf17c60deae64704dbbe893734431978a67.jar" />
     </item>
     <item
-        is-multidex="false"
+        jar="/Users/ognjetina/workProjects/online/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/ognjetina/workProjects/online/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_85b0cf4c2da3f50e118aaf88d542464143b7a289.jar" />
+    </item>
+    <item
+        jar="/Users/ognjetina/workProjects/online/node_modules/react-native-vector-icons/android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/ognjetina/workProjects/online/node_modules/react-native-vector-icons/android/build/intermediates/pre-dexed/androidTest/debug/classes-0d12dac9a907cbc75d979863c0506039aba4a9ff.jar" />
+    </item>
+    <item
+        jar="/Users/ognjetina/workProjects/online/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/ognjetina/workProjects/online/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_78e6b8345b9283d9ccb2613abe1b799afec06279.jar" />
+    </item>
+    <item
+        jar="/Users/ognjetina/workProjects/online/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/ognjetina/workProjects/online/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_b060181313b34ab699d70b19ef685a703e7a6b3d.jar" />
+    </item>
+    <item
+        jar="/Users/ognjetina/workProjects/online/android/app/build/intermediates/exploded-aar/online/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b319ff9834bbeb9be394687614eb86892699ea14">
+        <dex dex="/Users/ognjetina/workProjects/online/android/app/build/intermediates/pre-dexed/debug/online-react-native-vector-icons-unspecified_849233105a6bbfcaf868f26decfdbc874b9a1af6.jar" />
+    </item>
+    <item
+        jar="/Users/ognjetina/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/ognjetina/workProjects/online/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_8defaa2e324e518d5f624cfad33e1604da4f7653.jar" />
+    </item>
+    <item
+        jar="/Users/ognjetina/.gradle/caches/modules-2/files-2.1/commons-cli/commons-cli/1.2/2bf96b7aa8b611c177d329452af1dc933e14501c/commons-cli-1.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2bf96b7aa8b611c177d329452af1dc933e14501c">
+        <dex dex="/Users/ognjetina/workProjects/online/node_modules/react-native-vector-icons/android/build/intermediates/pre-dexed/androidTest/debug/commons-cli-1.2-fee147542159226571a8172ffa11dbb53c5d4fb3.jar" />
+    </item>
+    <item
+        jar="/Users/ognjetina/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/ognjetina/workProjects/online/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0_3c2ff5e3d8ce19902dc696260e7a82a87504c792.jar" />
+    </item>
+    <item
+        jar="/Users/ognjetina/workProjects/online/node_modules/react-native-vector-icons/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.20.1/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2c06af8f68934cbbbc1153a5ab0064483e6ac692">
+        <dex dex="/Users/ognjetina/workProjects/online/node_modules/react-native-vector-icons/android/build/intermediates/pre-dexed/androidTest/debug/classes-e6bb95578d109f9c2713657bc3ed7247a47f173e.jar" />
+    </item>
+    <item
+        jar="/Users/ognjetina/workProjects/online/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/Users/ognjetina/workProjects/online/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.0.1_741b7123532471be55c36c6b5ba60d4002755ed7.jar" />
+    </item>
+    <item
+        jar="/Users/ognjetina/workProjects/online/node_modules/react-native-vector-icons/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.20.1/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ffc64da9d9261e18ebc8b5e814f3d6a39aa6cbbe">
+        <dex dex="/Users/ognjetina/workProjects/online/node_modules/react-native-vector-icons/android/build/intermediates/pre-dexed/androidTest/debug/infer-annotations-1.5-f04203f58d632d8534bbc34b1f7dcd2af4f37c9c.jar" />
+    </item>
+    <item
+        jar="/Users/ognjetina/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/ognjetina/workProjects/online/node_modules/react-native-vector-icons/android/build/intermediates/pre-dexed/androidTest/debug/library-2.4.0-6e2dcebb1c3f09a3fa545bf31288a5c0b81328a4.jar" />
+    </item>
+    <item
+        jar="/Users/ognjetina/workProjects/online/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/Users/ognjetina/workProjects/online/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_f44ce6b880126c76111139910bf73aa6cc2c58d6.jar" />
+    </item>
+    <item
+        jar="/Users/ognjetina/workProjects/online/node_modules/react-native-vector-icons/android/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.8.1/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="845a5b3a624946b2068963ba656c117fc453701c">
+        <dex dex="/Users/ognjetina/workProjects/online/node_modules/react-native-vector-icons/android/build/intermediates/pre-dexed/androidTest/debug/classes-90a39310bec3f1c0f543243a399eefe2308406f2.jar" />
+    </item>
+    <item
+        jar="/Users/ognjetina/workProjects/online/node_modules/react-native-vector-icons/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/ognjetina/workProjects/online/node_modules/react-native-vector-icons/android/build/intermediates/pre-dexed/androidTest/debug/classes-162179d8bf23bf13832e7cca757994458e411690.jar" />
+    </item>
+    <item
+        jar="/Users/ognjetina/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/ognjetina/workProjects/online/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_7e752aa0dee70bc7af2dda4e9f08e8169f7a987e.jar" />
+    </item>
+    <item
+        jar="/Users/ognjetina/workProjects/online/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/Users/ognjetina/workProjects/online/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.0.1_28eb46d8e9de19290280941ab9e2d6578c3b125e.jar" />
+    </item>
+    <item
+        jar="/Users/ognjetina/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/ognjetina/workProjects/online/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_6a513854af1462bf1789b6305f2386d0c3b83f15.jar" />
+    </item>
+    <item
+        jar="/Users/ognjetina/workProjects/online/node_modules/react-native-vector-icons/android/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/ognjetina/workProjects/online/node_modules/react-native-vector-icons/android/build/intermediates/pre-dexed/androidTest/debug/internal_impl-23.0.1-c2f7466c000be1e742eb45c182c04aa193a468ff.jar" />
+    </item>
+    <item
+        jar="/Users/ognjetina/workProjects/online/node_modules/react-native-vector-icons/android/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.8.1/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9178570a3a28c95fabd3bc746cd68efe99ad2b47">
+        <dex dex="/Users/ognjetina/workProjects/online/node_modules/react-native-vector-icons/android/build/intermediates/pre-dexed/androidTest/debug/classes-9bf1861d2c24c2d7658fe9c9559fe0b4b4a162e5.jar" />
+    </item>
+    <item
+        jar="/Users/ognjetina/workProjects/online/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/Users/ognjetina/workProjects/online/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.0.1_c66b698fae0e1dc80065f6b918b314f86d82c2b2.jar" />
+    </item>
+    <item
+        jar="/Users/ognjetina/workProjects/online/node_modules/react-native-vector-icons/android/build/intermediates/exploded-aar/org.webkit/android-jsc/r174650/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="12b885b3ed1fc74a51f671ad40867aa91271843d">
+        <dex dex="/Users/ognjetina/workProjects/online/node_modules/react-native-vector-icons/android/build/intermediates/pre-dexed/androidTest/debug/classes-5fdda8cade62cf82a6338c0a9e4eb0f1f5a055e3.jar" />
+    </item>
+    <item
+        jar="/Users/ognjetina/workProjects/online/node_modules/react-native-vector-icons/android/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp/0.8.1/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0d5d69b03cb7d68b81543f6483ed04ccb0e2235b">
+        <dex dex="/Users/ognjetina/workProjects/online/node_modules/react-native-vector-icons/android/build/intermediates/pre-dexed/androidTest/debug/classes-420e6405b6b2c84961affc25cc55f9397ddd3596.jar" />
+    </item>
+    <item
+        jar="/Users/ognjetina/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/Users/ognjetina/workProjects/online/node_modules/react-native-vector-icons/android/build/intermediates/pre-dexed/androidTest/debug/jackson-core-2.2.3-5056c37e869239116c0f317dfd3f1192fb56f330.jar" />
+    </item>
+    <item
+        jar="/Users/ognjetina/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-ws/2.5.0/e9753b7dcae5deca92e871c5c759067070b07bc/okhttp-ws-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0e9753b7dcae5deca92e871c5c759067070b07bc">
+        <dex dex="/Users/ognjetina/workProjects/online/node_modules/react-native-vector-icons/android/build/intermediates/pre-dexed/androidTest/debug/okhttp-ws-2.5.0-e2d1d11a763846e489cf58aef6f63b7559cf7001.jar" />
+    </item>
+    <item
+        jar="/Users/ognjetina/workProjects/online/node_modules/react-native-vector-icons/android/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.8.1/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4af24c040b21980e0a80a505816c648e36705bd9">
+        <dex dex="/Users/ognjetina/workProjects/online/node_modules/react-native-vector-icons/android/build/intermediates/pre-dexed/androidTest/debug/classes-42c39ed31780b1c7ccb61539d38f11f7267df6cf.jar" />
+    </item>
+    <item
+        jar="/Users/ognjetina/workProjects/online/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.3/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/Users/ognjetina/workProjects/online/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5_24b9f2600f21df4ebf29a4293c511124db3cd6ed.jar" />
+    </item>
+    <item
+        jar="/Users/ognjetina/workProjects/online/node_modules/react-native-vector-icons/android/build/intermediates/bundles/debug/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0cf60aa03755d0889091d5a8781c0e595ac17996">
+        <dex dex="/Users/ognjetina/workProjects/online/node_modules/react-native-vector-icons/android/build/intermediates/pre-dexed/androidTest/debug/classes-268c3e597fe942a25284aeaaad07dfb2fd624ff3.jar" />
+    </item>
+    <item
+        jar="/Users/ognjetina/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/ognjetina/workProjects/online/node_modules/react-native-vector-icons/android/build/intermediates/pre-dexed/androidTest/debug/okio-1.6.0-4a354eec220c23316c1cc672c2b2842304702516.jar" />
+    </item>
+    <item
+        jar="/Users/ognjetina/workProjects/online/node_modules/react-native-vector-icons/android/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.8.1/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3836ecca4e31e18ea8fbae8e822d49777b0db4f7">
+        <dex dex="/Users/ognjetina/workProjects/online/node_modules/react-native-vector-icons/android/build/intermediates/pre-dexed/androidTest/debug/classes-d091973b27346d397bec40c774bece235f3cba9e.jar" />
+    </item>
+    <item
+        jar="/Users/ognjetina/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/Users/ognjetina/workProjects/online/node_modules/react-native-vector-icons/android/build/intermediates/pre-dexed/androidTest/debug/bolts-android-1.1.4-e800a89dd5f2df3e249f0082b7568d4bd65b466f.jar" />
+    </item>
+    <item
+        jar="/Users/ognjetina/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="/Users/ognjetina/workProjects/online/node_modules/react-native-vector-icons/android/build/intermediates/pre-dexed/androidTest/debug/okhttp-2.5.0-0e9d1f92fc5de3dde13a5b90c317d9b2215a982a.jar" />
+    </item>
+    <item
+        jar="/Users/ognjetina/workProjects/online/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/ognjetina/workProjects/online/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_09c8219466e42df631d6c2408336371c6c61b009.jar" />
+    </item>
+    <item
+        jar="/Users/ognjetina/workProjects/online/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/Users/ognjetina/workProjects/online/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.0.1_ce9020aad9cacc722864767f8044230d045b0acd.jar" />
+    </item>
+    <item
+        jar="/Users/ognjetina/workProjects/online/node_modules/react-native-vector-icons/android/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/ognjetina/workProjects/online/node_modules/react-native-vector-icons/android/build/intermediates/pre-dexed/androidTest/debug/classes-09d56358ba5470e2ea8f951d0475dbcd63cabec1.jar" />
+    </item>
+    <item
+        jar="/Users/ognjetina/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/ognjetina/workProjects/online/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1_b78db69536646792d7e4d413a6acc91732cec7d0.jar" />
+    </item>
+    <item
+        jar="/Users/ognjetina/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/ognjetina/workProjects/online/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_afdcd7369888b4c04b18bcf062af52925aae5668.jar" />
+    </item>
+    <item
         jar="/Users/ognjetina/workProjects/online/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.3/jars/classes.jar"
         jumboMode="false"
-        optimize="true"
         revision="23.0.1"
         sha1="af9665a44df26b4098e24c934c1109507845ef5e">
         <dex dex="/Users/ognjetina/workProjects/online/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.44.3_e439fe1017ccd94b32356b1844904e589eed34c1.jar" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/ognjetina/workProjects/online/android/app/build/intermediates/exploded-aar/online/react-native-vector-icons/unspecified/jars/classes.jar"
+        jar="/Users/ognjetina/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho-okhttp/1.2.0/6c5c9380e245c4ff5be2b2a49dcbb0200c39798e/stetho-okhttp-1.2.0.jar"
         jumboMode="false"
-        optimize="true"
         revision="23.0.1"
-        sha1="b319ff9834bbeb9be394687614eb86892699ea14">
-        <dex dex="/Users/ognjetina/workProjects/online/android/app/build/intermediates/pre-dexed/debug/online-react-native-vector-icons-unspecified_849233105a6bbfcaf868f26decfdbc874b9a1af6.jar" />
+        sha1="6c5c9380e245c4ff5be2b2a49dcbb0200c39798e">
+        <dex dex="/Users/ognjetina/workProjects/online/node_modules/react-native-vector-icons/android/build/intermediates/pre-dexed/androidTest/debug/stetho-okhttp-1.2.0-f77fd1c99dda52f270c9fa47d63ea13fe3ecdce7.jar" />
+    </item>
+    <item
+        jar="/Users/ognjetina/workProjects/online/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/Users/ognjetina/workProjects/online/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.0.1_3c1f0a3043662978527c5630338a0eb3f58d2c01.jar" />
+    </item>
+    <item
+        jar="/Users/ognjetina/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/ognjetina/workProjects/online/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_dfa30c8d2b7879fb47b0beb96c6a4fd63e04c9c1.jar" />
     </item>
 
 </items>
